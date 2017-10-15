@@ -1,3 +1,9 @@
+/*
+ * :vi ts=4 sts=4 sw=4
+ *
+ * Copyright (c) Jonathan Burchmore
+ */
+
 // Only modify this file to include
 // - function definitions (prototypes)
 // - include files

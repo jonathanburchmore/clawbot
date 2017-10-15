@@ -1,4 +1,10 @@
 /*
+ * :vi ts=4 sts=4 sw=4
+ *
+ * Copyright (c) Jonathan Burchmore
+ */
+
+/*
  * PololuSSC.cpp
  *
  *  Created on: May 13, 2012
